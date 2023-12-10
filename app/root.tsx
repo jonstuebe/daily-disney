@@ -10,8 +10,11 @@ import {
 import { Analytics } from "@vercel/analytics/react";
 import type { LinksFunction } from "@vercel/remix";
 
+import stylesheet from "~/tailwind.css";
+
 export const links: LinksFunction = () => [
   ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref }] : []),
+  { rel: "stylesheet", href: stylesheet },
 ];
 
 export default function App() {
@@ -23,7 +26,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body>
+      <body className="bg-white dark:bg-gray-800 w-full h-full flex flex-1">
         <Outlet />
         <ScrollRestoration />
         <Scripts />
