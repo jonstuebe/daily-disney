@@ -2,132 +2,132 @@
   {
     "question": "Who is the primary antagonist in Disney's 'The Little Mermaid'?",
     "answers": ["Ursula", "Flotsam", "Jetsam", "King Triton"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Aladdin,' what is the name of Aladdin's pet monkey?",
     "answers": ["Rajah", "Iago", "Abu", "Jafar"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "What Disney movie features a young mermaid named Ariel who dreams of living on land?",
     "answers": ["The Little Mermaid", "Pocahontas", "Mulan", "Moana"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What kind of animal is Dumbo in the Disney movie of the same name?",
     "answers": ["Elephant", "Lion", "Giraffe", "Kangaroo"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What Disney princess has a fairy godmother that helps her go to the royal ball?",
     "answers": ["Aurora", "Cinderella", "Belle", "Jasmine"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "Who is Simba's best friend in Disney's 'The Lion King'?",
     "answers": ["Timon", "Scar", "Mufasa", "Nala"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the magical kingdom where Elsa and Anna live in Disney's 'Frozen'?",
     "answers": ["Arendelle", "Corona", "Atlantis", "Wonderland"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Beauty and the Beast,' what household item is Lumière transformed into by the Enchantress's spell?",
     "answers": ["Teapot", "Candlestick", "Clock", "Wardrobe"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "Which Disney villain is known for saying, 'You poor, simple fools. Thinking you could defeat me, me, the mistress of all evil!'?",
     "answers": ["Maleficent", "Ursula", "Cruella de Vil", "Jafar"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the young boy who can fly and never grows up in Disney's 'Peter Pan'?",
     "answers": ["Peter Pan", "John", "Michael", "Wendy"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'The Jungle Book,' who is the wise old mentor figure who teaches Mowgli the 'Bare Necessities'?",
     "answers": ["Bagheera", "Baloo", "King Louie", "Shere Khan"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "Which Disney princess is known for having a magical golden hair that can heal wounds and reverse aging?",
     "answers": ["Snow White", "Ariel", "Rapunzel", "Merida"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "What is the name of the character who leads the toys in Andy's room in the 'Toy Story' movies?",
     "answers": ["Buzz Lightyear", "Woody", "Rex", "Mr. Potato Head"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "In 'The Princess and the Frog,' what is the name of the frog prince who needs a kiss to break the spell?",
     "answers": ["Louis", "Ray", "Tiana", "Naveen"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "What is the name of the villainous sea witch in Disney's 'The Little Mermaid'?",
     "answers": ["Ursula", "Flotsam", "Jetsam", "King Triton"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Moana,' what is the name of the demigod who accompanies Moana on her journey?",
     "answers": ["Maui", "Te Fiti", "Heihei", "Tala"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Which Disney movie features a young lion cub who eventually becomes the king of the Pride Lands?",
     "answers": ["The Lion King", "Tarzan", "Hercules", "Bambi"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Who is the main villain in Disney's 'The Hunchback of Notre Dame'?",
     "answers": ["Frollo", "Quasimodo", "Phoebus", "Esmeralda"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What type of animal is Thumper in Disney's 'Bambi'?",
     "answers": ["Rabbit", "Skunk", "Owl", "Squirrel"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Pocahontas,' what is the name of Pocahontas's animal friend?",
     "answers": ["Meeko", "Flit", "Percy", "Thomas"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Who is the villainous hunter in 'The Jungle Book' who wants to capture Mowgli?",
     "answers": ["Shere Khan", "Kaa", "Bagheera", "Baloo"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of Cinderella's stepsister who is kind to her in Disney's 'Cinderella'?",
     "answers": ["Anastasia", "Drizella", "Lady Tremaine", "Fairy Godmother"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Which Disney movie tells the story of a young Chinese woman who disguises herself as a man to take her father's place in the army?",
     "answers": ["Mulan", "Pocahontas", "Jasmine", "Belle"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the toy factory owner in 'The Santa Clause' who becomes Santa Claus?",
     "answers": ["Scott Calvin", "Bernard", "Neil", "Judy"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'The Sword in the Stone,' who is the young boy who becomes King Arthur?",
     "answers": ["Arthur", "Merlin", "Wart", "Archimedes"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "What is the name of the evil sorceress who places a curse on Princess Aurora in 'Sleeping Beauty'?",
     "answers": ["Maleficent", "Ursula", "Cruella de Vil", "Jafar"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Who is the captain of the East India Trading Company in 'Pirates of the Caribbean: Dead Man's Chest'?",
@@ -137,87 +137,87 @@
       "Captain Salazar",
       "Lord Cutler Beckett"
     ],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'The Emperor's New Groove,' what animal does Emperor Kuzco turn into?",
     "answers": ["Llama", "Jaguar", "Cheetah", "Panther"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the young boy who can see and communicate with ghosts in Disney's 'The Sixth Sense'?",
     "answers": ["Cody", "Cole", "Sam", "Eli"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "Which Disney princess is known for her love of books and her red rose?",
     "answers": ["Aurora", "Cinderella", "Belle", "Jasmine"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "What is the name of the warthog who is Simba's loyal friend in Disney's 'The Lion King'?",
     "answers": ["Pumbaa", "Timon", "Rafiki", "Zazu"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Frozen,' what is the name of Elsa's younger sister who has the power of love?",
     "answers": ["Arendelle", "Corona", "Atlantis", "Anna"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "Which character in 'Beauty and the Beast' is transformed into a teapot by the Enchantress's spell?",
     "answers": ["Cogsworth", "Mrs. Potts", "Lumière", "Chip"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "What is the name of the villainous sorceress who imprisons the Beast in 'Beauty and the Beast'?",
     "answers": ["Cruella de Vil", "Ursula", "Maleficent", "Gaston"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'Aladdin,' what type of animal is Abu, Aladdin's loyal companion?",
     "answers": ["Monkey", "Parrot", "Elephant", "Tiger"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the Disney princess who is known for her love of reading and adventure?",
     "answers": ["Belle", "Ariel", "Jasmine", "Cinderella"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'Mulan,' what is the name of Mulan's loyal and witty dragon companion?",
     "answers": ["Mushu", "Khan", "Cri-Kee", "Shan Yu"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the young boy who can see and interact with spirits in 'The Sixth Sense'?",
     "answers": ["Cole", "Cody", "Sam", "Eli"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'The Little Mermaid,' what is the name of Ariel's best friend, who is a flounder?",
     "answers": ["Sebastian", "Scuttle", "Flounder", "Grimsby"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "Who is the villain in 'Aladdin' who wants to steal the magic lamp and the genie's powers?",
     "answers": ["Iago", "Rajah", "Abu", "Jafar"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'Peter Pan,' what is the name of Captain Hook's loyal and bumbling sidekick?",
     "answers": ["Smee", "Tick-Tock", "Sneezy", "Slink"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What kind of animal is Pegasus in Disney's 'Hercules'?",
     "answers": ["Horse", "Eagle", "Lion", "Goat"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'The Little Mermaid,' what item does Ariel use to comb her hair and sing 'Part of Your World'?",
     "answers": ["Dinglehopper", "Snarfblatt", "Gizmo", "Whozit"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "Who is the captain of the East India Trading Company in 'Pirates of the Caribbean: At World's End'?",
@@ -227,56 +227,56 @@
       "Captain Salazar",
       "Lord Cutler Beckett"
     ],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'The Emperor's New Groove,' what does Kuzco turn into when he is transformed by Yzma's potion?",
     "answers": ["Llama", "Jaguar", "Cheetah", "Panther"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the young boy who befriends a giant robot in Disney's 'The Iron Giant'?",
     "answers": ["Hogarth", "Kent", "Dean", "Annie"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "In 'The Incredibles,' what is the superhero name of Mr. Incredible?",
     "answers": ["Elastigirl", "Dash", "Frozone", "Bob Parr"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "What is the name of the magical land that Alice visits in Disney's 'Alice in Wonderland'?",
     "answers": ["Neverland", "Oz", "Narnia", "Wonderland"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'Zootopia,' what type of animal is Judy Hopps, the film's protagonist?",
     "answers": ["Lion", "Rabbit", "Elephant", "Fox"],
-    "correctAnswer": 1
+    "correctAnswerIndex": 1
   },
   {
     "question": "Who is the villainous sorceress in 'The Princess and the Frog' who turns Prince Naveen into a frog?",
     "answers": ["Dr. Facilier", "Mama Odie", "Tiana", "Ray"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the villainous octopus in 'Moana' who steals the heart of Te Fiti?",
     "answers": ["Tamatoa", "Kakamora", "Te Ka", "Maui"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   },
   {
     "question": "In 'The Jungle Book,' what is the name of the hypnotic snake who tries to capture Mowgli?",
     "answers": ["Kaa", "Shere Khan", "Baloo", "Bagheera"],
-    "correctAnswer": 0
+    "correctAnswerIndex": 0
   },
   {
     "question": "What is the name of the villainous sorceress who wants to capture the last of the Atlantean people in 'Atlantis: The Lost Empire'?",
     "answers": ["Kida", "Milo", "Helga", "Rourke"],
-    "correctAnswer": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "In 'The Fox and the Hound,' what kind of animal is Copper, the fox's friend?",
     "answers": ["Rabbit", "Bear", "Hound", "Squirrel"],
-    "correctAnswer": 2
+    "correctAnswerIndex": 2
   }
 ]
