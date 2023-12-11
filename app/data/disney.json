@@ -278,5 +278,165 @@
     "question": "In 'The Fox and the Hound,' what kind of animal is Copper, the fox's friend?",
     "answers": ["Rabbit", "Bear", "Hound", "Squirrel"],
     "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the name of the toy cowboy in 'Toy Story'?",
+    "answers": ["Buzz Lightyear", "Woody", "Rex", "Mr. Potato Head"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which Disney princess is known for having a long, magical, golden hair?",
+    "answers": ["Rapunzel", "Belle", "Aurora", "Merida"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "In 'The Lion King', who is Simba's father?",
+    "answers": ["Scar", "Timon", "Mufasa", "Pumbaa"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Who is the famous Disney character known for wearing red shorts, large yellow shoes, and white gloves?",
+    "answers": ["Goofy", "Mickey Mouse", "Donald Duck", "Pluto"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'Frozen', what is the name of the snowman brought to life by Elsa?",
+    "answers": ["Sven", "Olaf", "Kristoff", "Hans"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which Disney movie is set in the fictional city of Agrabah?",
+    "answers": ["Aladdin", "The Lion King", "Mulan", "Frozen"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the name of the Disney princess who is known for her love of books and falls in love with a beast?",
+    "answers": ["Jasmine", "Ariel", "Belle", "Snow White"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "In which Disney movie does a young girl disguise herself as a man to save her father?",
+    "answers": ["Frozen", "Mulan", "Moana", "Pocahontas"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the fairy in 'Peter Pan'?",
+    "answers": ["Tinker Bell", "Silvermist", "Fawn", "Iridessa"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which Disney movie features a talking genie?",
+    "answers": [
+      "The Lion King",
+      "Aladdin",
+      "Beauty and the Beast",
+      "Cinderella"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Who is the villain in 'Sleeping Beauty'?",
+    "answers": ["Ursula", "Maleficent", "Jafar", "Captain Hook"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the girl who becomes friends with the animals in 'Pocahontas'?",
+    "answers": ["Pocahontas", "Jasmine", "Ariel", "Mulan"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which Disney character is known for saying 'To infinity and beyond'?",
+    "answers": ["Woody", "Buzz Lightyear", "Mr. Potato Head", "Rex"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'Cinderella', what transforms into her carriage?",
+    "answers": ["A pumpkin", "A mouse", "A bird", "A shoe"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the name of the sea witch in 'The Little Mermaid'?",
+    "answers": ["Ursula", "Ariel", "Melody", "Flounder"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the name of the villain in '101 Dalmatians'?",
+    "answers": ["Cruella de Vil", "Maleficent", "Ursula", "Jafar"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which Disney movie features a young girl named Lilo who adopts an alien pet?",
+    "answers": ["Moana", "Frozen", "Lilo & Stitch", "The Little Mermaid"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "In 'Beauty and the Beast', what is the name of the candelabra character?",
+    "answers": ["Lumiere", "Cogsworth", "Gaston", "Chip"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What type of animal is Timon in 'The Lion King'?",
+    "answers": ["Warthog", "Meerkat", "Lion", "Hyena"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'Finding Nemo', what type of fish is Nemo?",
+    "answers": ["Goldfish", "Clownfish", "Blue Tang", "Guppy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which Disney movie is set in the underwater city of Atlantica?",
+    "answers": ["The Little Mermaid", "Finding Nemo", "Moana", "Frozen"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the name of the young Native American girl who befriends a British settler in 'Pocahontas'?",
+    "answers": ["Nakoma", "Pocahontas", "Mulan", "Tiana"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'Monsters, Inc.', what is the name of the one-eyed green monster?",
+    "answers": ["Sully", "Mike Wazowski", "Boo", "Randall"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the Hawaiian goddess in 'Moana'?",
+    "answers": ["Maui", "Te Fiti", "Tala", "Sina"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'The Princess and the Frog', what animal does Tiana turn into?",
+    "answers": ["Frog", "Bird", "Cat", "Rabbit"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who is the sorcerer in 'Fantasia'?",
+    "answers": ["Mickey Mouse", "Yen Sid", "Chernabog", "Merlin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the prince in 'Snow White and the Seven Dwarfs'?",
+    "answers": [
+      "Prince Florian",
+      "Prince Charming",
+      "Prince Eric",
+      "Prince Phillip"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which Disney movie features a robot named WALL-E?",
+    "answers": ["Big Hero 6", "WALL-E", "Monsters, Inc.", "Cars"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "In 'Aladdin', who is the Sultan's advisor?",
+    "answers": ["Jafar", "Iago", "Rajah", "Abu"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What type of animal is Bambi in the Disney movie 'Bambi'?",
+    "answers": ["Deer", "Rabbit", "Skunk", "Bird"],
+    "correctAnswerIndex": 0
   }
 ]
